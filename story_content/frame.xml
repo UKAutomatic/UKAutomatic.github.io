@@ -1166,17 +1166,23 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.64jBdA9cA1J" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.64jBdA9cA1J" displaytext="SFG" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.64jBdA9cA1J.6LOvu9aM1ie" displaytext="Open" expand="false" type="slide" />
             <slidelink slideid="_player.64jBdA9cA1J.6CopaHPYp6E" displaytext="مدل SFG" expand="false" type="slide" />
             <slidelink slideid="_player.64jBdA9cA1J.6RIxCSbAAD2" displaytext="تعاریف" expand="false" type="slide" />
             <slidelink slideid="_player.64jBdA9cA1J.5cIxaYKxFU0" displaytext="Paths" expand="false" type="slide" />
-            <slidelink slideid="_player.64jBdA9cA1J.5hYrEVmYhsV" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.64jBdA9cA1J.6dl6aaGl2lx" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.64jBdA9cA1J.6PkCYo4GB2X" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.64jBdA9cA1J.6GAZSLpMitK" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.64jBdA9cA1J.5hYrEVmYhsV" displaytext="حلقه" expand="false" type="slide" />
+            <slidelink slideid="_player.64jBdA9cA1J.6dl6aaGl2lx" displaytext="مثال حلقه" expand="false" type="slide" />
+            <slidelink slideid="_player.64jBdA9cA1J.6PkCYo4GB2X" displaytext="مثال حلقه های مجزا" expand="false" type="slide" />
+            <slidelink slideid="_player.64jBdA9cA1J.6GAZSLpMitK" displaytext="بهره های مسیر" expand="false" type="slide" />
             <slidelink slideid="_player.64jBdA9cA1J.5iRc27fBuHO" displaytext="تناظر SFG و دیاگرام بلوکی" expand="false" type="slide" />
+            <slidelink slideid="_player.64jBdA9cA1J.6OTzTpcazVS" displaytext="قاعده میسون یا فرمول میسون" expand="false" type="slide" />
+            <slidelink slideid="_player.64jBdA9cA1J.5woqktmb0J2" displaytext="محاسبه دلتا" expand="false" type="slide" />
+            <slidelink slideid="_player.64jBdA9cA1J.6lnoHkN9PD4" displaytext="مثال 1" expand="false" type="slide" />
+            <slidelink slideid="_player.64jBdA9cA1J.5ieycuXqkpN" displaytext="ادامه مثال 1" expand="false" type="slide" />
+            <slidelink slideid="_player.64jBdA9cA1J.6MX6FUHyp0I" displaytext="مثال 2" expand="false" type="slide" />
+            <slidelink slideid="_player.64jBdA9cA1J.5q98teiV2y4" displaytext="ادامه مثال 2" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
